@@ -24,7 +24,7 @@ public class Main {
         System.out.println(burger_2.name);
         System.out.println("Weight " + burger_2.weightInGram + " gram");
         System.out.println("Calorie " + burger_2.calorieInKkal + " Kkal");
-        System.out.println("Porteins " + burger_2.proteinInGram + " gram");
+        System.out.println("Proteins " + burger_2.proteinInGram + " gram");
         System.out.println("Fats " + burger_2.fatInGram + " gram");
         System.out.println("Carbohydrates " + burger_2.carbohydrateInGram + " gram");
 
