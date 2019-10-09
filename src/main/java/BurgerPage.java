@@ -5,7 +5,7 @@ public class BurgerPage {
     int priceInRub;
     double weightInGram;
     String description;
-    int calorieInKkal;
+    int kilocalories;
     double carbohydrateInGram;
     double fatInGram;
     double proteinInGram;
